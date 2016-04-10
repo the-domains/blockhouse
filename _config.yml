@@ -1,7 +1,7 @@
 name: Blockhouse
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.13175
+layout_spectrum: 0.5472727303858846
+typography_spectrum: 0.396933660376817
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f4ede7'
-    - '#a3a3c1'
-    - '#394e62'
-    - '#7688b5'
-    - '#0e1412'
-  brandStrength: 0.6875
-  lightness: 0.125
-  saturation: 0.75
-  rhythmicContrast: 1
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7422152787912637
+  lightness: 0.024943798780441284
+  saturation: 0.7436939470935613
+  rhythmicContrast: 0.6088409591466188
 purpose: []
