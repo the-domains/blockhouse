@@ -2,6 +2,7 @@ name: Blockhouse
 favicon: null
 layout_spectrum: 0.57601
 typography_spectrum: 0.13175
+title: Blockhouse Main
 cta:
   domain: null
   bucket: null
